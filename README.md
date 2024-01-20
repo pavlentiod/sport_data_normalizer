@@ -47,7 +47,7 @@ df, routes, log = SFR_EVENT(link)
 #README for split.py
 # SFR Event Data Analysis
 
-This Python repository offers tools for analyzing data from SFR (Sport Federation of Rogaining) events, specifically focusing on split times and results of participants in rogaining competitions.
+This Python repository offers tools for analyzing data from SFR(punching system) events, specifically focusing on split times and results of participants in rogaining competitions.
 
 ## General Description
 
